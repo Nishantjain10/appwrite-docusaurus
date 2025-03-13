@@ -1,24 +1,8 @@
 ---
 slug: meet-the-team
-title: Welcome to Your Documentation
-authors:
-  - name: Matej Baco
-    title: Developer Relations Engineer at Appwrite
-    url: https://appwrite.io/blog/author/matej-baco
-    image_url: https://appwrite.io/images/avatars/matej.png
-    socials:
-      github: meldiron
-      x: _meldiron
-      linkedin: matejbaco
-  - name: Nishant Jain
-    title: Developer Relations Engineer at Appwrite
-    url: https://www.appwrite.io/blog/author/nishant-jain
-    image_url: https://www.appwrite.io/images/avatars/nishant.png
-    socials:
-      github: nishantjain10
-      x: devnishant10
-      linkedin: nishantj2002
-tags: [docusaurus, documentation, template]
+title: Meet the Team
+authors: [matej, nishant]
+tags: [documentation, template]
 description: Get started with this modern Docusaurus template, featuring a clean design and powerful documentation features. Perfect for your next project!
 ---
 

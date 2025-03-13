@@ -1,15 +1,7 @@
 ---
 slug: long-blog-post
 title: Long Blog Post
-authors:
-  - name: Matej Baco
-    title: Software Engineer at Appwrite
-    url: https://appwrite.io/blog/author/matej-baco
-    image_url: https://appwrite.io/images/avatars/matej.png
-    socials:
-      github: meldiron
-      x: _meldiron
-      linkedin: matejbaco
+authors: [matej]
 tags: [hello, docusaurus]
 ---
 

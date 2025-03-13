@@ -21,3 +21,23 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+matej:
+  name: Matej Baco
+  title: Developer Relations Engineer at Appwrite
+  url: https://appwrite.io/blog/author/matej-baco
+  image_url: https://appwrite.io/images/avatars/matej.png
+  socials:
+    github: meldiron
+    x: _meldiron
+    linkedin: matejbaco
+
+nishant:
+  name: Nishant Jain
+  title: Developer Relations Engineer at Appwrite
+  url: https://www.appwrite.io/blog/author/nishant-jain
+  image_url: https://www.appwrite.io/images/avatars/nishant.png
+  socials:
+    github: nishantjain10
+    x: devnishant10
+    linkedin: nishantj2002

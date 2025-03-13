@@ -1,6 +1,6 @@
 ---
-slug: meet-the-team
-title: Meet the Team
+slug: Welcome
+title: Welcome
 authors: [matej, nishant]
 tags: [documentation, template]
 description: Get started with this modern Docusaurus template, featuring a clean design and powerful documentation features. Perfect for your next project!

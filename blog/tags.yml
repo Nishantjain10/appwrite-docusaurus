@@ -4,11 +4,13 @@ facebook:
   description: Facebook tag description
 
 hello:
-  name: Hello
+  label: Hello
+  permalink: /hello
   description: Greeting and welcome posts
 
 docusaurus:
-  name: Docusaurus
+  label: Docusaurus
+  permalink: /docusaurus
   description: Posts related to Docusaurus features and updates
 
 hola:
@@ -17,9 +19,11 @@ hola:
   description: Hola tag description
 
 documentation:
-  name: Documentation
+  label: Documentation
+  permalink: /documentation
   description: Articles about documentation and best practices
 
 template:
-  name: Template
+  label: Template
+  permalink: /template
   description: Posts about templates and starter kits

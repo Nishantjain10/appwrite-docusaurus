@@ -63,6 +63,11 @@
   --ifm-hero-text-color: var(--ifm-color-white);
 }
 
+[data-theme='dark'] .hero--primary {
+  --ifm-hero-background-color: var(--ifm-background-surface-color);
+  border-bottom: 1px solid var(--ifm-toc-border-color);
+}
+
 .footer {
   border-top: 1px solid var(--ifm-toc-border-color);
 }

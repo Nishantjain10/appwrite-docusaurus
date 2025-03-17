@@ -10,20 +10,20 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'DevKit',
-  tagline: 'Documentation powered by Appwrite',
+  title: 'Docusaurus Boilerplate',
+  tagline: 'Create beautiful documentation with Docusaurus',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://your-docusaurus-site.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'your-org', // Usually your GitHub org/user name.
+  projectName: 'docusaurus-boilerplate', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -81,7 +81,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'DevKit',
+        title: '',
         logo: {
           alt: 'Appwrite Logo',
           src: 'img/appwrite/appwrite-light.svg',
